@@ -18,5 +18,4 @@ password utilisé test 123*
 ## dossier workspace 
    ce dossier est monté dans le container ,il est accessible dans le conainter dans workspace
 
-   ## raccourci
-   lorsque vous etes
+const db=connect("mongodb://root:test123*@localhost:27017")
